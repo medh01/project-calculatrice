@@ -1,0 +1,8 @@
+// parseInt()
+parseInt(string)
+if string is a number it returns an int 
+else it returns NaN
+parseInt(string,base)
+
+//math.floor 
+
